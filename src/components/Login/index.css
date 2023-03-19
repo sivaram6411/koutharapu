@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.button {
+  width: 80px;
+  height: 40px;
+  border-radius: 12px;
+  border-width: 0px;
+  color: #303150;
+}
